@@ -289,7 +289,7 @@ No. El parking debe dejarse libres a las 12:00h, igual que las habitaciones.
 ---
 
 ### ¿Se puede reservar plaza de parking con antelación?
-Las plazas son por disponibilidad a la llegada. Si está disponible, se añade automáticamente si procede la promoción.
+Las plazas son por disponibilidad a la llegada. Si está disponible, se añade automáticamente a su reserva si procede la promoción.
 
 ---
 
@@ -699,7 +699,7 @@ Tenis: 8€/hora para alojados y 10€/hora para no alojados. Pádel: 16€/90 m
 ---
 
 ### ¿Donde puedo hacer la reserva?
-En nuestra web oficial https://www.hoteltresanclas.com 
+Para garantizar la máxima seguridad en el tratamiento de tus datos personales y bancarios, cumpliendo estrictamente con la normativa de protección de datos, todas las reservas deben realizarse a través de nuestra web oficial: https://www.hoteltresanclas.com De este modo, tu información sensible queda totalmente protegida en nuestro entorno seguro. No obstante, si tienes cualquier duda durante el proceso o prefieres consultarnos algo sobre nuestras habitaciones o servicios de relax, estamos a tu entera disposición por esta vía o por teléfono. ¡Será un placer ayudarte!
 
 ---
 
