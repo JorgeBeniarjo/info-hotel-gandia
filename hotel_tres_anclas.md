@@ -703,3 +703,8 @@ Para garantizar la máxima seguridad en el tratamiento de tus datos personales y
 
 ---
 
+### ¿Cuánto se tarda en llegar al hotel desde el aeropuerto más cercano?
+El aeropuerto más cercano al Hotel Tres Anclas es el de Valencia (VLC) a unos 75 km (~55 min en coche por AP-7). También puedes llegar en transporte público (Metro + Cercanías). Desde el aeropuerto de Alicante (ALC) el trayecto es de aproximadamente 1h 20 min (115 km).
+
+---
+
