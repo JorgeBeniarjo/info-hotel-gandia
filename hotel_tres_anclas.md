@@ -14,7 +14,7 @@ Check-in: garantizado 14:00-16:00h (posible antes según disponibilidad) | Check
 ---
 
 ### [RESUMEN PRECIOS CENTRO DE RELAX]
-Acceso adultos (piscina climatizada + sauna + baño turco + jacuzzi + gimnasio): 6€/hora | Niños 3-12 años: 2.50€/hora | Bono 5 accesos individuales: 25€ | Bono 10 accesos (máx. 2 personas): 42€ | Gimnasio suelto: 2.50€/hora | Bono 10 accesos gimnasio (individual): 15€ | Masaje relajante 20 min: 30€ | Masaje descontracturante 40 min: 40€ | Gorro obligatorio (venta: 2€)
+Acceso adultos (piscina climatizada + sauna + baño turco + jacuzzi + gimnasio): 6€/hora | Niños 3-12 años: 2.50€/hora | Bono 5 accesos individuales: 25€ | Bono 10 accesos (máx. 2 personas): 42€ | Gimnasio suelto: 2.50€/hora | Bono 10 accesos gimnasio (individual): 15€ | Masaje relajante 20 min: 25€ | Masaje intermedio 30 min. 35€ | Masaje descontracturante 40 min: 45€ | Gorro obligatorio (venta: 2€)
 
 ---
 
