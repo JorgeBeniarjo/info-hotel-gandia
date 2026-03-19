@@ -1,5 +1,5 @@
 # Guía de Información: Hotel Tres Anclas (Gandía)
-> Última actualización: 3/17/2026
+> Última actualización: 3/19/2026
 
 ---
 
@@ -684,7 +684,7 @@ Solo un dispensador de gel en la bañera/ducha. En Dobles Vista Mar y Apartament
 ---
 
 ### ¿Hay información sobre alergenos?
-Sí. Disponible a través de una app-web del hotel.
+Sí. Disponible a través de una app-web del hotel https://www.fichatec.com/public/carta-digital/2033-elmarellssa/
 
 ---
 
