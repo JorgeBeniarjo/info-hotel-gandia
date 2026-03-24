@@ -708,3 +708,8 @@ El aeropuerto más cercano al Hotel Tres Anclas es el de Valencia (VLC) a unos 7
 
 ---
 
+### ¿Dispone de chorros la piscina climatizada que hay en el Centro de Relax?
+No, es solo piscina climatizada, sin ningún tipo de chorro.
+
+---
+
