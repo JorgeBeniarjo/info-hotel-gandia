@@ -1,5 +1,5 @@
 # Guía de Información: Hotel Tres Anclas (Gandía)
-> Última actualización: 3/24/2026
+> Última actualización: 4/6/2026
 
 ---
 
