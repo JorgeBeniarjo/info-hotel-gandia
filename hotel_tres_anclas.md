@@ -169,7 +169,7 @@ Sí, por aforo limitado de 10 personas. Se recomienda reservar previamente, pref
 ---
 
 ### ¿Cuál es el horario del Centro de Relax?
-Lunes a domingo: 10:00-13:00h y 17:00-20:00h. En invierno cerrado lunes, martes y sábado por la mañana.
+De martes a domingo: 12:00h a 20:00h
 
 ---
 
