@@ -384,7 +384,7 @@ Sí. Hay equipo de animación en temporada alta.
 ---
 
 ### ¿Qué animación hay para adultos?
-Aquagym, waterpolo, aquadance, tenis, pádel, fútbol, música en vivo, shows de magia, bingo. Horario: 10:00-13:00h y 17:00-00:00h.
+Aquagym, waterpolo, aquadance, tenis, pádel, fútbol, música en vivo, shows de magia, bingo y muchas más actividades.
 
 ---
 
