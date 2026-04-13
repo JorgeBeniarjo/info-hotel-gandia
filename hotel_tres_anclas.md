@@ -389,7 +389,7 @@ Aquagym, waterpolo, aquadance, tenis, pádel, fútbol, música en vivo, shows de
 ---
 
 ### ¿Qué animación hay para niños?
-MiniClub en temporada alta: talleres de pintura, juegos de agua, papiroflexia, minidisco con las mascotas Bruno y Lola. Horario: 10:00-13:00h y 17:00-20:00h.
+MiniClub en temporada alta: talleres de pintura, juegos de agua, papiroflexia, minidisco con las mascotas Bruno y Lola.
 
 ---
 
