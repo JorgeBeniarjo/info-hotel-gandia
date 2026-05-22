@@ -1,5 +1,5 @@
 # Guía de Información: Hotel Tres Anclas (Gandía)
-> Última actualización: 4/13/2026
+> Última actualización: 5/22/2026
 
 ---
 
@@ -154,7 +154,7 @@ Acceso suelto: 2,50€/hora. Bono 10 accesos individuales: 15€.
 ---
 
 ### ¿Qué masajes se ofrecen y a qué precio?
-Masaje relajante: 25€/20 min. Masaje descontracturante: 45€/40 min y masaje intermedio 35€/30 min. Con cita previa. Los masajes se realizan en la habitación 119, fuera del Centro de Relax.
+Masaje relajante: 25€/20 min. Masaje descontracturante: 45€/40 min y masaje intermedio 35€/30 min. Con cita previa. Los masajes se realizan dentro de las instalaciones del Centro de Relax.
 
 ---
 
