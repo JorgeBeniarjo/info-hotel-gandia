@@ -9,7 +9,7 @@ Hotel Tres Anclas | Carrer de la Valldigna 11 | Platja de Gandia 46730 | Tel: +3
 ---
 
 ### [RESUMEN HORARIOS]
-Check-in: garantizado 14:00-16:00h (posible antes según disponibilidad) | Check-out: hasta 12:00h (Late hasta 18:00h por 45€) | Desayuno: 8:30-10:30h | Comidas: 13:30-15:30h | Cenas: 20:30-22:30h | Piscina exterior: 10:30-20:30h | Centro de Relax: de miercoles a domingo 12:00h a 20:00h (sesiones a las 12, 13, 15, 16, 17, 18, 19h)
+Check-in: garantizado 14:00-16:00h (posible antes según disponibilidad) | Check-out: hasta 12:00h (Late hasta 18:00h por 45€) | Desayuno: 8:30-10:30h | Comidas: 13:30-15:30h | Cenas: 20:30-22:30h | Piscina exterior: 10:30-20:30h | Centro de Relax: de miercoles a sábado 12:00h a 20:00h (sesiones a las 12, 13, 15, 16, 17, 18, 19h), domingos de 10:00h a 18:00h
 
 ---
 
