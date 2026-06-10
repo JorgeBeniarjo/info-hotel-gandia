@@ -1,5 +1,5 @@
 # Guía de Información: Hotel Tres Anclas (Gandía)
-> Última actualización: 5/22/2026
+> Última actualización: 6/10/2026
 
 ---
 
@@ -84,7 +84,7 @@ Bebé: 0-2 años. Niño: 3-12 años. Adulto: 13 años en adelante.
 ---
 
 ### ¿Todas las habitaciones tienen nevera?
-No. Las Dobles Vista Mar, Estudios Familiares y Apartamentos incluyen nevera. Las Dobles Terraza no, pero se puede alquilar por 3€/noche sujeto a disponibilidad.
+Si, todas nuestras habitaciones cuentan con nevera.
 
 ---
 
