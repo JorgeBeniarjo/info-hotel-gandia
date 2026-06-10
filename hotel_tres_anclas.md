@@ -669,7 +669,7 @@ No.
 ---
 
 ### ¿Hay minibar en las habitaciones?
-No. Las habitaciones Doble Vista Mar, Estudios y Apartamentos tienen nevera.
+Todas nuestras habitaciones cuentan con nevera.
 
 ---
 
