@@ -254,7 +254,7 @@ No, salvo en caso de enfermedad.
 ---
 
 ### ¿Qué restricciones hay en el restaurante?
-En cenas: no se puede entrar con bañador. Los caballeros no pueden entrar con camiseta sin mangas.
+En cenas: no se puede entrar con bañador o bikini.
 
 ---
 
