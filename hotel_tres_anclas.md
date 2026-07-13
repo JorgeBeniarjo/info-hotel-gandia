@@ -694,7 +694,7 @@ No. El aforo máximo es de 10 personas.
 ---
 
 ### ¿Cuánto cuestan las pistas de tenis y pádel cuando estén disponibles?
-Tenis: 8€/hora para alojados y 10€/hora para no alojados. Pádel: 16€/90 min para huéspedes y 24€/90 min para no alojados. Actualmente fuera de servicio.
+Tenis: 10€/hora para alojados y 12€/hora para no alojados. Pádel: 18€/90 min para huéspedes y 26€/90 min para no alojados. Actualmente fuera de servicio.
 
 ---
 
