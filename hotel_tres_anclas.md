@@ -1,5 +1,5 @@
 # Guía de Información: Hotel Tres Anclas (Gandía)
-> Última actualización: 7/6/2026
+> Última actualización: 7/13/2026
 
 ---
 
@@ -184,7 +184,7 @@ Sí, el Centro de Relax tiene tarifa adicional (6€/hora adulto, 2,50€/hora n
 ---
 
 ### ¿Qué instalaciones deportivas hay?
-Gimnasio (de pago), pistas de tenis y pádel. IMPORTANTE: Las pistas deportivas (tenis y pádel) están actualmente fuera de servicio por obras de mejora.
+Gimnasio (de pago), pistas de tenis y pádel.
 
 ---
 
